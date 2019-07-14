@@ -6,6 +6,7 @@ package my_pack;
 public class MYClass {
     public static void main(String[] args) {
         System.out.println("Salam Alaykoummm !!!");
+        System.out.println("wa Rahmatti Allahi Wa Barakatihi ");
     }
 
 }
